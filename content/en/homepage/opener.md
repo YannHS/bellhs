@@ -6,6 +6,8 @@ header_menu_title: Welcome
 header_menu: false
 ---
 
+---
+
 {{< columns count=2 >}}
 
 {{< column >}}

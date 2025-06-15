@@ -25,12 +25,12 @@
     --section-light-bg-color: #ffffff;
 
     /* Dark section - text color */
-    --section-dark-text-color: var(--section-light-bg-color);
+    --section-dark-text-color: #000000;
     /* Dark section - background color */
-    --section-dark-bg-color: #990008;
+    --section-dark-bg-color: #eeeeee;
 
     /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
-    --section-uni-quote: grey;
+    --section-uni-quote: #990008;
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
     --section-uni-code-bg-color: #e0ded7;
 
@@ -39,8 +39,8 @@
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #22343a;
-    --footer-color: #bbc7cc;
+    --footer-color-background: #990008;
+    --footer-color: #aaaaaa;
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */
