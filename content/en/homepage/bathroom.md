@@ -15,7 +15,7 @@ header_menu: true
 
 {{< column >}}
 
-As of 2024, most of the Male bathrooms in Bell High School *lacked a door*, while all other bathrooms had one. Rumour was that this was needed due to rampant vaping in school bathrooms, though this was still only a minor deterrent for students vaping.
+As of 2024, most of the Mens bathrooms in Bell High School *lacked a door*, while all other bathrooms had one. Rumour was that this was needed due to rampant vaping in school bathrooms, though this was still only a minor deterrent for students vaping.
 
 {{< / column >}}
 
