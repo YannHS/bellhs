@@ -18,7 +18,7 @@ Well too bad! Unless you opt-out, all students *must* have at least *2* E-Learni
 
 {{< column >}}
 ##### What does this mean?
-This means that students are could be forced to take at least 2 courses *entirely through a computer, with no human interaction with the other students or the teacher.* 
+This means that students could be forced to take at least 2 courses *entirely through a computer, with no human interaction with the other students or the teacher.* 
 {{</ column >}}
 
 

@@ -14,7 +14,7 @@ The commencement ceremony valedictorian was [suspended](https://www.instagram.co
 
 {{< column >}}
 
-> As a commitment to Truth and reconciliation I must acknowledge colonial and genocidal atrocities today, including the massacre of more than 17,00 Palestinian children in Gaza. I refuse to stand on the side of history that allows the repetition of crimes against humanity. In 2024, Canada sold 18.9 million dollars in military goods to Israel. It is my hope that every single on of you present today consider my speech and my desperation for a free Palestine. For the children, for the parents, and especially for the Palestinian high school graduates, who are just like my peers and I, yet who are not celebration their well-earned high school graduation today.
+> As a commitment to Truth and reconciliation I must acknowledge colonial and genocidal atrocities today, including the massacre of more than 1700 Palestinian children in Gaza. I refuse to stand on the side of history that allows the repetition of crimes against humanity. In 2024, Canada sold 18.9 million dollars in military goods to Israel. It is my hope that every single on of you present today consider my speech and my desperation for a free Palestine. For the children, for the parents, and especially for the Palestinian high school graduates, who are just like my peers and I, yet who are not celebration their well-earned high school graduation today.
 
 *\- Elizabeth, Valedictorian*
 
