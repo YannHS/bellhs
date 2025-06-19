@@ -22,6 +22,8 @@ The commencement ceremony valedictorian was [suspended](https://www.instagram.co
 
 {{< img alt="Alt text" src="/images/valedictorian.png"  >}}
 
+
+
 {{< / columns >}}
 
 <br>
@@ -31,6 +33,10 @@ While this speech was well received by the audience, the Principal had different
 > The content of the remarks, which touched on deeply sensitive global events, was not part of the pre-approved speech. We deeply regret that this occurred and are truly sorry for the hard that has been caused.
 
 *\- Jane Conrod, Vice-Principal*
+
+<br>
+
+Some Students performed a Walk-out on Monday June 16, 2025 [in protest of the vice principal's message](https://www.ctvnews.ca/ottawa/article/ottawa-high-school-principal-apologizes-for-unexpected-and-unapproved-comments-in-graduation-speech/).
 
 <br>
 
